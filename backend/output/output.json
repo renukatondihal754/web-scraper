@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Defence Housing Society",
+    "website": "https://defencehousingsociety.com/",
+    "contact": {
+      "emails": [
+        "mail@defencehousingsociety.com",
+        "info@defencehousingsociety.com",
+        "you@example.com",
+        "mail@defencehabitat.com",
+        "info@defencehabitat.com"
+      ],
+      "phones": [
+        "080 - 29903931",
+        "+91-8884 735 735",
+        "+91 8188 992 266"
+      ],
+      "address": [
+        "Not Found"
+      ],
+      "socialMedia": {
+        "facebook": [
+          "https://www.facebook.com/defencehabitat"
+        ],
+        "twitter": [
+          "https://twitter.com/DefenceSociety"
+        ],
+        "instagram": [
+          "https://www.instagram.com/accounts/login/?next=/defence_habitat/"
+        ],
+        "linkedin": [],
+        "whatsapp": []
+      }
+    }
+  }
+]
